@@ -86,7 +86,7 @@ if will give you a result that you can copy and paste to your terminal
 
 📸 *Insert screenshot or demo image here*
 
-![final screenshot](https://i.imgur.com/qV2ZDcf.jpeg)
+![Proof step screenshot](https://i.imgur.com/wFcQOtE.png)
 
 
 ---
