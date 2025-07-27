@@ -79,18 +79,6 @@ COPY IT , AND COPY STEP 6
  👆 copy this the values and everything  then dump inside chatgpt plus STEP 6 codes
  then ask it to help you figure it out 
 
-
- THEN ASK IT FOR A COPYABLE TO YOUR TERMINAL .
-
-if will give you a result that you can copy and paste to your terminal 
-
-📸 *Insert screenshot or demo image here*
-
-![Proof step screenshot](https://i.imgur.com/wFcQOtE.png)
-
-
----
-
 ## 🧪 Example (My Own)
 
 ```bash
@@ -102,6 +90,18 @@ soundness-cli send --proof-file="OefeWTjtDgdkcNr-tEdg2rPUiclVhOqrRpyFxJDem34" \
 ```
 
 ---
+
+ THEN ASK IT FOR A COPYABLE TO YOUR TERMINAL .
+
+if will give you a result that you can copy and paste to your terminal 
+
+📸 *Insert screenshot or demo image here*
+
+![Proof step screenshot](https://i.imgur.com/wFcQOtE.jpeg)
+
+
+---
+
 
 ## 🙋 Need Help?
 Just paste your values into ChatGPT i mean  using the command format above. You'll get a working submission script in seconds.
