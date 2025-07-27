@@ -76,9 +76,8 @@ COPY IT , AND COPY STEP 6
  I mean this 
  ![Proof screenshot](https://i.imgur.com/g7ryV67.png)
 
- 👆 copy this the values and everything  then dump inside chatgpt plus STEP 6 codes
- then ask it to help you figure it out 
-
+ ## 👆copy this the values and everything  then dump inside chatgpt plus STEP 6 ( i mean all of it ) code then ask it to 
+generate your own ```
 ## 🧪 Example (My Own)
 
 ```bash
