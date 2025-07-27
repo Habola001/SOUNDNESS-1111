@@ -7,6 +7,12 @@ still hard at start ?
 
 ---
 
+
+
+before  we start if in anywhere while running the code ,🛑 **If it asks for a password, just press enter** (leave it empty)
+
+
+
 ## ✅ Step 1: Update Your System
 ```bash
 sudo apt update && sudo apt upgrade -y
@@ -39,29 +45,9 @@ SOMETHING LIKE   soundness-cli import-key --name sound --mnemonic " DOG INDOMIE 
 
 ---
 
-## 🎮 Step 6: Generate Proof
 
-```bash
-soundness-cli prove \
---key-name sound \
---game "8queens" \
---proving-system ligetron \
---input '["<input_1>", "<input_2>"]' \
---shader-path "<path-to-your-shader-folder>" \
---program "<path-to-your-wasm-file>" \
---private-indices "[1, 2]" \
---packing 8192
-```
- THIS HARD ?
- YOU REMEBER  THAT RESULT THAT WAS GIVEN TO YOU IN YOUR DM BY SOUND GAME-7? 
-COPY IT , AND COPY STEP 6 + PLUS THAT RESULT + STEP 7 ( STEP 7 OPTIONAL ) 
-
- AND PASTE ON CHAT GPT TO HELP YOU 
-
- THEN ASK IT FOR A COPYABLE TO YOU TERMINAL .
-
-
-## 📤 Step 7: Submit Your Proof
+ 
+## 📤 Step 6: Submit Your Proof
 
 ```bash
 soundness-cli send \
@@ -83,16 +69,25 @@ soundness-cli send \
 }'
 ```
 
-🧠 **Don't Know What to Fill In?**
-If you're confused by the command or not sure what to put:
+🧠 **Don't Know What to Fill in ? 
+ 🫛🫛🫛🫛🫛🫛🫛🫛🫛🫛🫛
+ YOU REMEBER  THAT RESULT THAT WAS GIVEN TO YOU IN YOUR DM BY SOUND GAME-7? 
+COPY IT , AND COPY STEP 6 
+ I mean this 
+ ![Proof screenshot](https://i.imgur.com/g7ryV67.png)
 
-✅ Copy your values from the result you got after completing the `soundness-cli prove` or from Walrus  
-🧠 Paste them into ChatGPT using the command format above  
-⚡ Get a ready-to-run command back instantly!  
+ 👆 copy this the values and everything  then dump inside chatgpt plus STEP 6 codes
+ then ask it to help you figure it out 
+
+
+ THEN ASK IT FOR A COPYABLE TO YOUR TERMINAL .
+
+if will give you a result that you can copy and paste to your terminal 
 
 📸 *Insert screenshot or demo image here*
 
-🛑 **If it asks for a password, just press enter** (leave it empty)
+![Another screenshot](https://i.imgur.com/qV2ZDcf.png)
+
 
 ---
 
